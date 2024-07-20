@@ -9,4 +9,5 @@ React Native 6.0.2
   - Totalização em % dos acertos
 
   Testado em Android
+
 ![alt text](image.png)
